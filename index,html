@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Html</title>
+        <link rel="stulesheet" href="style.css">
+        <style>
+            body {
+                padding: 20px;
+                margin: 0px;
+            }
+        </style>
+        <script>
+            src="app,js"
+        </script>
+    </head>
+    <body>
+        <h1>Html demo</h1>
+        <style>
+            h1 {
+                color: blue;
 
+            }
+        </style>
+    </body>
+</html>
